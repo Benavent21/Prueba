@@ -17,6 +17,7 @@ public class PruebaGit {
         // TODO code application logic here
         //asdasdasdadadasdadadada
         //Editado desde github
+        //edit rama beta
     }
     
 }
